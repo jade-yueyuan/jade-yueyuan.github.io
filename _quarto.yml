@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Yue Yuan"
+  site-url: https://jade-yueyuan.github.io/
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/jade-yueyuan/jade-yueyuan.github.io
   repo-actions: [edit, issue]
   
   page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+    # left: |
+    #   [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
